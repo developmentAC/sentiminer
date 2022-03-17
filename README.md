@@ -19,7 +19,7 @@ GitHub link: https://github.com/developmentAC/xxx
 * [Commands](#commands)
 * [Output](#output)
 * [References](#references)
-* [A Work in Progress](#a_work_in_progress)
+* [Evolution](#evolution)
 
 
 
@@ -84,7 +84,7 @@ For the sentence, `bullying buy depression`, the resulting score is -2 which is 
  Wickham H, Averick M, Bryan J, Chang W, McGowan LD, François R, Grolemund G, Hayes A, Henry L, Hester J, Kuhn M, Pedersen TL, Miller E, Bache SM, Müller K, Ooms J, Robinson D, Seidel DP, Spinu V, Takahashi K, Vaughan D, Wilke C, Woo K, Yutani H (2019). “Welcome to the tidyverse.” Journal of Open Source Software, 4(43), 1686. doi: 10.21105/joss.01686.)
 
 
-### A Work in Progress
+### Evolution
 
 Check back often to see the evolution of this project!! Sentiminer is a work-in-progress and updates are likely to come.
 
