@@ -74,7 +74,7 @@ For the sentence, `share the load, share the love`, the resulting score is 1.67 
 
 ![Optimism test](graphics/optimism.png)
 
-For the sentence, `bullying buy depression`, the resulting score is -2 which is calculated from the word, "bullying" as shown in the figure of the output below. The score is negative to suggest that the text is generally pessimistic.
+For the sentence, `bullying buys depression`, the resulting score is -2 which is calculated from the word, "bullying" as shown in the figure of the output below. The score is negative to suggest that the text is generally pessimistic.
 
 ![pessimism test](graphics/pessimism.png)
 
