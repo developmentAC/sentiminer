@@ -24,7 +24,7 @@ GitHub link: https://github.com/developmentAC/xxx
 
 
 ### Overview
-Sentiment analysis is the semantic study of emotion in language. This form of analysis is used to determine the level of satisfaction or dissatisfaction in textual data such as reviews,  survey responses, online and social media posting and similar. Due to the often high volume of feedback from the above types of textual data, sentiment analysis provides an automated solution for determining the "feeling" of the text.
+Sentiment analysis is the semantic study of emotion in language. This form of analysis is used to determine the level of satisfaction or dissatisfaction in textual data such as reviews, survey responses, online and social media posting and similar. Due to the often high volume of feedback from the above types of textual data, sentiment analysis provides an automated solution for determining the "feeling" of the text.
 
 
 This program performs sentiment analysis on textual data using the AFinn (from Finn Årup Nielsen) sentiment analysis method. The accompanying AFinn data file with this project was isolated from the R programming open source project Tidyverse (See reference below).
@@ -46,7 +46,7 @@ abductions,-2
 
 
 ### Mechanism
-Sentiminer isolates each word of the the user-inputted text to determine the sentiment score of each word. Shown below, the summation of all scores is found for the body of text, and is then divided by the total number of hits (i.e., found words) having a score for a degree of pessimism or optimism.
+Sentiminer isolates each word of the the user-inputted text to determine a corresponding sentiment score. Shown below, the summation of all scores is found for the body of text, and is then divided by the total number of hits (i.e., found words) having a score for a degree of pessimism or optimism.
 
 _summation_ = score(word_1) + ... score(word_n)
 
