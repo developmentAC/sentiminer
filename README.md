@@ -29,7 +29,7 @@ Sentiment analysis is the semantic study of emotion in language. This form of an
 
 This program performs sentiment analysis on textual data using the AFinn (from Finn Årup Nielsen) sentiment analysis method. The accompanying AFinn data file with this project was isolated from the R programming open source project Tidyverse (See reference below).
 
-Each word that able to convey a sensation of optimism or pessimism in the English language has been paired with a curated numerical value called the _sentiment score_. The scale of __pessimism__ to __optimism__ ranges from -5 to 5. An short example of some of the words of the AFinn dictionary is given below.
+Each word that is able to convey a sensation of optimism or pessimism in the English language has been paired with a curated numerical value called the _sentiment score_. The scale of __pessimism__ to __optimism__ ranges from -5 to 5. A short example of some of the words of the AFinn dictionary is given below.
 
 ```
 Word,Score
