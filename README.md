@@ -46,7 +46,7 @@ abductions,-2
 
 
 ### Mechanism
-Sentiminer isolates each word of the the user-inputted text to determine the sentiment score of each word. Shown below, the summation of all scores is found for the body of text, and is then divided by the total number of hits (i.e., found words) which having a score of pessimism or optimism.
+Sentiminer isolates each word of the the user-inputted text to determine the sentiment score of each word. Shown below, the summation of all scores is found for the body of text, and is then divided by the total number of hits (i.e., found words) having a score for a degree of pessimism or optimism.
 
 _summation_ = score(word_1) + ... score(word_n)
 
