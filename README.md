@@ -1,5 +1,5 @@
 ##### Sentiminer
-##### Date: 16 March 2022
+##### Date: 22 March 2022
 ##### Oliver Bonham-Carter, [Allegheny College](https://allegheny.edu/)
 ##### email: obonhamcarter@allegheny.edu
 
